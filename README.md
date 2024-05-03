@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![MasterHead](https://github.com/erturkomer/Whatsapp-Web-Clone/blob/main/assets/images/Profile/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png)
 
 About Me 🚀
 Hey there! I'm Ömer Ertürk, a passionate software developer who loves building exciting projects and exploring new technologies. My journey in the coding world has been thrilling, and I thrive on the challenges and creativity it brings. 💡
