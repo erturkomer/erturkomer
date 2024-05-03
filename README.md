@@ -1,14 +1,14 @@
 ![MasterHead](https://github.com/erturkomer/Whatsapp-Web-Clone/blob/main/assets/images/Profile/Technology%20LinkedIn%20Banner%20in%20Blue%20White%20and%20Grey%20Modern%20Style.png)
 
 <div align="center">
- 
-![](https://komarev.com/ghpvc/?username=erturkomer&color=blue)
- <a href="https://github.com/erturkomer">
+  <a href="https://github.com/erturkomer">
   <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Ömer+Ertürk+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
- ![](https://komarev.com/ghpvc/?username=erturkomer&color=blue)
-
- 
+ <div/>
+  
+ <div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=erturkomer&color=blue)
 # 💻 Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
