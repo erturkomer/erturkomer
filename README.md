@@ -1,3 +1,5 @@
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
 About Me 🚀
 Hey there! I'm Ömer Ertürk, a passionate software developer who loves building exciting projects and exploring new technologies. My journey in the coding world has been thrilling, and I thrive on the challenges and creativity it brings. 💡
 
