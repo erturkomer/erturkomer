@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
+ 
 ![](https://komarev.com/ghpvc/?username=erturkomer&color=blue)
-<div/>
 # 💻 Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -24,6 +24,8 @@
 ![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge)
 ![Polymer Project Badge](https://img.shields.io/badge/Polymer%20Project-FF4470?logo=polymerproject&logoColor=fff&style=for-the-badge)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
+
+<div/>
 
 
 About Me 🚀
