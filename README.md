@@ -1,5 +1,4 @@
 ![MasterHead](https://github.com/erturkomer/Whatsapp-Web-Clone/blob/main/assets/images/Profile/Technology%20LinkedIn%20Banner%20in%20Blue%20White%20and%20Grey%20Modern%20Style.png)
-![](https://komarev.com/ghpvc/?username=erturkomer&color=blue)
 
 <div align="center">
  <a href="https://github.com/erturkomer">
@@ -7,7 +6,7 @@
  </a>
 </div>
 
-
+![](https://komarev.com/ghpvc/?username=erturkomer&color=blue)
 # 💻 Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
