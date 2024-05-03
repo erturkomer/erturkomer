@@ -8,15 +8,6 @@
 </div>
 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/erturkomer"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<a href="https://www.leetcode.com/erturkomer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="erturkomer" height="30" width="40" /></a>
-<a href="https://medium.com/@erturkomer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="erturkomer" height="30" width="40" /></a>
-</p>
-
-
 About Me 🚀
 Hey there! I'm Ömer Ertürk, a passionate software developer who loves building exciting projects and exploring new technologies. My journey in the coding world has been thrilling, and I thrive on the challenges and creativity it brings. 💡
 
@@ -35,6 +26,13 @@ Let's Connect 📫
 Always up for a coding challenge, a collaborative project, or just a friendly chat about tech and innovation. Feel free to reach out at erturkomer256@gmail.com, and let's create something amazing together! 🌟🚀
 
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/erturkomer"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.leetcode.com/erturkomer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="erturkomer" height="30" width="40" /></a>
+<a href="https://medium.com/@erturkomer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="erturkomer" height="30" width="40" /></a>
+</p>
 
 
 
