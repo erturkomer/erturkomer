@@ -9,8 +9,6 @@
  <div align="center">
   
   ![](https://komarev.com/ghpvc/?username=erturkomer&color=blue)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erturkomer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 About Me 🚀
 Hey there! I'm Ömer Ertürk, a passionate software developer who loves building exciting projects and exploring new technologies. My journey in the coding world has been thrilling, and I thrive on the challenges and creativity it brings. 💡
@@ -51,5 +49,9 @@ Always up for a coding challenge, a collaborative project, or just a friendly ch
 <a href="https://www.leetcode.com/erturkomer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="erturkomer" height="30" width="40" /></a>
 <a href="https://medium.com/@erturkomer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="erturkomer" height="30" width="40" /></a>
 </p>
+
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erturkomer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div/>
