@@ -25,8 +25,6 @@
 ![Polymer Project Badge](https://img.shields.io/badge/Polymer%20Project-FF4470?logo=polymerproject&logoColor=fff&style=for-the-badge)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
 
-<div/>
-
 
 About Me 🚀
 Hey there! I'm Ömer Ertürk, a passionate software developer who loves building exciting projects and exploring new technologies. My journey in the coding world has been thrilling, and I thrive on the challenges and creativity it brings. 💡
@@ -54,3 +52,4 @@ Always up for a coding challenge, a collaborative project, or just a friendly ch
 <a href="https://medium.com/@erturkomer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="erturkomer" height="30" width="40" /></a>
 </p>
 
+<div/>
