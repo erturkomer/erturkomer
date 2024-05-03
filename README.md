@@ -1,6 +1,20 @@
 ![MasterHead](https://github.com/erturkomer/Whatsapp-Web-Clone/blob/main/assets/images/Profile/Technology%20LinkedIn%20Banner%20in%20Blue%20White%20and%20Grey%20Modern%20Style.png)
 ![](https://komarev.com/ghpvc/?username=erturkomer&color=blue)
 
+<div align="center">
+ <a href="https://github.com/erturkomer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Çağatay+Akkaş+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
+</div>
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://github.com/erturkomer"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://medium.com/@erturkomer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="erturkomer" height="30" width="40" /></a>
+</p>
+
 About Me 🚀
 Hey there! I'm Ömer Ertürk, a passionate software developer who loves building exciting projects and exploring new technologies. My journey in the coding world has been thrilling, and I thrive on the challenges and creativity it brings. 💡
 
