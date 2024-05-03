@@ -1,4 +1,5 @@
-![MasterHead](https://github.com/erturkomer/Whatsapp-Web-Clone/blob/main/assets/images/Profile/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png)
+![MasterHead](https://github.com/erturkomer/Whatsapp-Web-Clone/blob/main/assets/images/Profile/Technology%20LinkedIn%20Banner%20in%20Blue%20White%20and%20Grey%20Modern%20Style.png)
+![](https://komarev.com/ghpvc/?username=erturkomer&color=blue)
 
 About Me 🚀
 Hey there! I'm Ömer Ertürk, a passionate software developer who loves building exciting projects and exploring new technologies. My journey in the coding world has been thrilling, and I thrive on the challenges and creativity it brings. 💡
