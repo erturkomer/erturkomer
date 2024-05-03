@@ -7,7 +7,6 @@
 </div>
 
 <div align="center">
- 
 ![](https://komarev.com/ghpvc/?username=erturkomer&color=blue)
 <div/>
 # 💻 Languages and Tools:
