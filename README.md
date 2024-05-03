@@ -1,5 +1,5 @@
-![MasterHead](https://github.com/erturkomer/Whatsapp-Web-Clone/blob/main/assets/images/Profile/Technology%20LinkedIn%20Banner%20in%20Blue%20White%20and%20Grey%20Modern%20Style.png)
 ![](https://komarev.com/ghpvc/?username=erturkomer&color=blue)
+![MasterHead](https://github.com/erturkomer/Whatsapp-Web-Clone/blob/main/assets/images/Profile/Technology%20LinkedIn%20Banner%20in%20Blue%20White%20and%20Grey%20Modern%20Style.png)
 
 <div align="center">
  <a href="https://github.com/erturkomer">
