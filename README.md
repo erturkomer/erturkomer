@@ -51,3 +51,5 @@ Always up for a coding challenge, a collaborative project, or just a friendly ch
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
 ![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge)
+![Polymer Project Badge](https://img.shields.io/badge/Polymer%20Project-FF4470?logo=polymerproject&logoColor=fff&style=for-the-badge)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
