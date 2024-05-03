@@ -10,7 +10,7 @@
   
   ![](https://komarev.com/ghpvc/?username=erturkomer&color=blue)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erturkomer&theme=dark&show_icons=true)
 
 About Me 🚀
 Hey there! I'm Ömer Ertürk, a passionate software developer who loves building exciting projects and exploring new technologies. My journey in the coding world has been thrilling, and I thrive on the challenges and creativity it brings. 💡
