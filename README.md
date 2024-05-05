@@ -37,11 +37,9 @@ Always up for a coding challenge, a collaborative project, or just a friendly ch
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Jquery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
 ![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge)
 ![Polymer Project Badge](https://img.shields.io/badge/Polymer%20Project-FF4470?logo=polymerproject&logoColor=fff&style=for-the-badge)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
